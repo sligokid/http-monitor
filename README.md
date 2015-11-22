@@ -12,3 +12,5 @@ Add email address to monitor-sites.sh
 $ chmod 755 monitor-sites.sh
 
 $ ./monitor-sites.sh 
+
+Automate the job via crontab
